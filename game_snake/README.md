@@ -1,0 +1,2 @@
+this game for snake has the function to save your highest score in file,but the path is determined to your Debug file by your Qt,so you should to see where 
+your Debug file is,and change the relative path in source code in mainwindow.cpp and log.cpp
